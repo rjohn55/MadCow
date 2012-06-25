@@ -55,11 +55,17 @@ namespace Bnet.Patcher
         #endregion
 
         #region Build 1.0.2.9991
-        static Int32 serverOffset = 0x000BC25C;
-        static Int32 challengeOffset = 0x000BC219;
-        static string version = "24e2d13e54";
+        //static Int32 serverOffset = 0x000BC25C;
+        //static Int32 challengeOffset = 0x000BC219;
+        //static string version = "24e2d13e54";
         #endregion
-
+		
+		#region Build 1.0.3.10057
+        static Int32 serverOffset = 0x000BC2CC;
+        static Int32 challengeOffset = 0x000BC289;
+        static string version = "ab0ebd5e2c";
+        #endregion
+		
         static void Main(string[] args)
         {
             var running = false;
