@@ -1,0 +1,40 @@
+:::::::::::::::::::::::::::::::::::::
+Compiling
+:::::::::::::::::::::::::::::::::::::
+
+1.- Open MadCow project file with VisualStudio and hit F5.
+OR
+2.- Run Compile.bat located at MadCow root directory.
+
+
+:::::::::::::::::::::::::::::::::::::
+Proxy
+:::::::::::::::::::::::::::::::::::::
+
+For changing the proxy configs set Proxy settings over \Tools\Madcow.ini file.
+
+:::::::::::::::::::::::::::::::::::::
+Steps to play:
+:::::::::::::::::::::::::::::::::::::
+
+Step 1: Download MadCow
+Step 2: Compile
+Step 3: Start up MadCow, it will create a shortcut on your desktop.
+Step 4: Select a Repository
+Step 5: Press "Validate Repository" Button.
+Step 6: Press "Update Mooege" Button.
+Step 7: Press "Find Diablo3" Button, select diablo 3.exe.
+Step 8: Press "Copy MPQ's" Button.
+Step 9: Press "Play Diablo (Local)" Button,
+Step 10: Select the Repository you downloaded, Launch Diablo 3 Button.
+Step 11: Wait for mooege to have to lines that say "Listening to..."
+Errors? -> Redownload MPQS and Requirements from Compiling
+Step 12: In Diablo -> User: test@ Pass: anything
+
+::::::::::::::::::::::::::::::::::::
+PROBLEMS?
+::::::::::::::::::::::::::::::::::::
+
+Please use mooege.org forum, try the search function first, maybe the problem your experiencing its already solved.
+If unable to find an answer go to MadCow support section and start a post, BE SURE to paste your Mooege log file along your post, 
+the log file can be fund within "logs" folder in your madcow root directory.
