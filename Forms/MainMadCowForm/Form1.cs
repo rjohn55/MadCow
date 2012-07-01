@@ -900,7 +900,7 @@ namespace MadCow
                 if (Proxy.proxyStatus)
                     client.Proxy = proxy;
                 client.DownloadStringCompleted += new DownloadStringCompletedEventHandler(Checkversions);
-                Uri uri = new Uri("https://raw.github.com/RedGreenKnight/mooege/master/src/Mooege/Common/Versions/VersionInfo.cs");
+                Uri uri = new Uri("https://raw.github.com/rjohn55/mooege/master/src/Mooege/Common/Versions/VersionInfo.cs");
                 client.DownloadStringAsync(uri);
             }
             catch
